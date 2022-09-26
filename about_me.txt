@@ -1,0 +1,6 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! I'm Molly, I'm a freshmen in LSA, and I'm undecided but thinking about CS or data science :)
+Fun fact I'm a master speed-walker
